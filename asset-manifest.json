@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/chingu-tier2/static/css/main.88ce6676.css",
+    "main.js": "/chingu-tier2/static/js/main.46c28fa2.js",
+    "index.html": "/chingu-tier2/index.html",
+    "main.88ce6676.css.map": "/chingu-tier2/static/css/main.88ce6676.css.map",
+    "main.46c28fa2.js.map": "/chingu-tier2/static/js/main.46c28fa2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88ce6676.css",
+    "static/js/main.46c28fa2.js"
+  ]
+}
