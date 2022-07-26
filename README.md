@@ -54,7 +54,7 @@ Maybe you can mention me or this repo in the acknowledgements too
 ### :camera: Screenshots
 
 <div align="center"> 
-  <img src="https://web.facebook.com/photo/?fbid=763673401504836&set=a.136722754199907" alt="screenshot" />
+  <img src="https://photos.google.com/search/_tra_/photo/AF1QipN6-bMDzyAvmXTFnYOLSkEwLZnrgs_TTkkIrpIb" alt="screenshot" />
 </div>
 
 
